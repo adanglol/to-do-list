@@ -1,6 +1,6 @@
 {
   "name": "to-do-list",
-  "homepage" : "https://github.com/adanglol/to-do-list",
+  "homepage" : "https://github.com/adanglol/to-do-list/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
